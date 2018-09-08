@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7251e002-8f65-4fe7-b227-329e34eb8963" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1576670096">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="accounts" value="2" />
+          <entry key="data-authentication-login-invalid-accounts" value="2" />
+          <entry key="js" value="18" />
+          <entry key="json" value="5" />
+          <entry key="readJsonData" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="9" />
+          <entry key="JavaScript" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1315" />
+          <entry key="json" value="177" />
+          <entry key="readJsonData" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="177" />
+          <entry key="JavaScript" value="1350" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e2eTest/objectPages/HomePage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e2eTest/objectPages/LoginPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/e2eTest/testCases/testDataProvider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e2eTest/data/data_list_of_account.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e2eTest/data/data_list_of_urls.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e2eTest/src/smokeTest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e2eTest/data/data-authentication-login-invalid-accounts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/RegisterPage.js" />
+        <option value="$PROJECT_DIR$/src/e2eTest/test.authentication.d.js" />
+        <option value="$PROJECT_DIR$/src/e2eTest/test.authentication.login.invalid.account.js" />
+        <option value="$PROJECT_DIR$/src/main/HomePage.js" />
+        <option value="$PROJECT_DIR$/src/main/LoginPage.js" />
+        <option value="$PROJECT_DIR$/src/e2eTest/test.authentication.login.valid.account.js" />
+        <option value="$PROJECT_DIR$/src/configuration.js" />
+        <option value="$PROJECT_DIR$/src/e2eTest/test/test.authentication.login.valid.account.js" />
+        <option value="$PROJECT_DIR$/e2eTest/testCases/test.authentication.login.valid.account.js" />
+        <option value="$PROJECT_DIR$/e2eTest/testCases/test.authentication.login.invalid.account.js" />
+        <option value="$PROJECT_DIR$/e2eTest/utility/readJsonData" />
+        <option value="$PROJECT_DIR$/e2eTest/testCases/test_authentication_login_invalid_account.js" />
+        <option value="$PROJECT_DIR$/e2eTest/data/data-authentication-login-invalid-accounts.js" />
+        <option value="$PROJECT_DIR$/e2eTest/data/data_list_of_account.json" />
+        <option value="$PROJECT_DIR$/e2eTest/data/data_list_of_URLs.json" />
+        <option value="$PROJECT_DIR$/e2eTest/src/configuration.js" />
+        <option value="$PROJECT_DIR$/e2eTest/objectPages/LoginPage.js" />
+        <option value="$PROJECT_DIR$/e2eTest/src/smokeTest.js" />
+        <option value="$PROJECT_DIR$/e2eTest/data/data_list_of_urls.json" />
+        <option value="$PROJECT_DIR$/e2eTest/testCases/testDataProvider.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="363" />
+    <option name="y" value="43" />
+    <option name="width" value="1401" />
+    <option name="height" value="1004" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Olympus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olympus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olympus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olympus" type="462c0819:PsiDirectoryNode" />
+              <item name="e2eTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olympus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olympus" type="462c0819:PsiDirectoryNode" />
+              <item name="e2eTest" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olympus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olympus" type="462c0819:PsiDirectoryNode" />
+              <item name="e2eTest" type="462c0819:PsiDirectoryNode" />
+              <item name="objectPages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olympus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olympus" type="462c0819:PsiDirectoryNode" />
+              <item name="e2eTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olympus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olympus" type="462c0819:PsiDirectoryNode" />
+              <item name="e2eTest" type="462c0819:PsiDirectoryNode" />
+              <item name="testCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Olympus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Olympus" type="462c0819:PsiDirectoryNode" />
+              <item name="e2eTest" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/e2eTest/src/smokeTest.js" />
+    <property name="nodejs.protractor.protractor_package" value="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStorm\Olympus\e2eTest\data" />
+      <recent name="D:\WebStorm\Olympus\e2eTest\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStorm\Olympus\e2eTest\src" />
+      <recent name="D:\WebStorm\Olympus\e2eTest" />
+      <recent name="D:\WebStorm\Olympus" />
+      <recent name="D:\WebStorm\Olympus\src\e2eTest" />
+      <recent name="D:\WebStorm\Olympus\src\e2eTest\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProtractorConfig" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/e2eTest/src/smokeTest.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7251e002-8f65-4fe7-b227-329e34eb8963" name="Default Changelist" comment="" />
+      <created>1536388371168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536388371168</updated>
+      <workItem from="1536388373391" duration="10015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProtractorConfig - 2018.09.08 at 15h 54m 28s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 15h 56m 23s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 14m 10s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 16m 10s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 16m 36s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 17m 19s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 19m 15s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 19m 49s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 20m 10s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="ProtractorConfig - 2018.09.08 at 16h 20m 33s.xml">
+      <configuration name="ProtractorConfig" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10015000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="363" y="44" width="1400" height="1003" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24229075" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32796317" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32796317" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.4579977" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/e2eTest/objectPages/RegisterPage.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/data/data-authentication.login.invalid.accounts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/data/abc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/testCases/test_authentication_login_valid_account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/data/data-authentication-login-invalid-accounts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/src/configuration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/data/data-authentication-login-invalid-accounts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/utility/readJsonData">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/testCases/test_authentication_login_invalid_account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/data/data_list_of_account.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/objectPages/HomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/src/smokeTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/data/data_list_of_urls.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/objectPages/LoginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2eTest/testCases/testDataProvider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

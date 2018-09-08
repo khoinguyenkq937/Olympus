@@ -1,0 +1,13 @@
+{
+    "homepage": {
+        "URL": "http://demo.nopcommerce.com/"
+    },
+
+    "loginpage": {
+        "URL": "http://demo.nopcommerce.com/login"
+    },
+
+    "loginpage": {
+        "URL": "http://demo.nopcommerce.com/register"
+    }
+}

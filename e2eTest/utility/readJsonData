@@ -1,0 +1,9 @@
+describe('should read the data from json file', function (filePath) {
+    it('should abc', function () {
+        let const_json = require(filePath);
+        let setFirstName = browser.params.Login_accounts.firstName;
+        let URL = browser.params.Login_accounts.url;
+        browser.get(URL);
+        console.log(setFirstName);
+    })
+})
