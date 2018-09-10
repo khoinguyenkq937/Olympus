@@ -7,11 +7,11 @@ exports.config = {
     //seleniumAddress: 'http://localhost:4444/wd/hub',
     capabilities: {
         browserName: 'chrome',
-/*        chromeOptions: {
+        chromeOptions: {
             args: [
                 '--start-maximized'
             ]
-        }*/
+        }
     },
 
     //params: require('D:/Protractor Files/SharingProjectGit/ProtractorJSS/nopCommerce/Data/LoginFunction/data_login_valid_account.json'),
@@ -22,7 +22,7 @@ exports.config = {
     suites: {
      //   login_invalid_account: '../testCases/test_authentication_login_invalid_account.js',
      //   login_valid_account: '../testCases/test_authentication_login_valid_account.js',
-        demoTest: '../testCases/testDAtaProvider.js'
+        demoTest: '../testCases/test_shopping_order_a_product_successfully_without_authentication.js'
     },
 
     onPrepare: function () {

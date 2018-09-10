@@ -1,7 +1,9 @@
 let AngularHomePage = function(){
     let lnk_login = browser.element(by.xpath("//*[@href='/login']"));
     let msg_welcomeHomepage = browser.element(by.xpath("//*[@class='topic-block-title']"));
-    let lnk_myAccount = element(by.xpath("//*[contains(@href,'/customer/info')]"))
+    let lnk_myAccount = browser.element(by.xpath("//*[contains(@href,'/customer/info')]"));
+    //menu_computers for desktop version
+    let menu_computers = browser.element(by.xpath("//*[@class='top-menu']//*[@href='/computers']"));
 
     let EC = protractor.ExpectedConditions;
 
@@ -20,6 +22,10 @@ let AngularHomePage = function(){
     this.waitForUserLoginSuccessfully = function(){
         browser.wait(EC.presenceOf(lnk_myAccount), 10000);
         expect(lnk_myAccount.isElementPresent);
+    }
+
+    this.goToComputersPage = function () {
+        menu_computers.click();
     }
 }
 

@@ -6,12 +6,6 @@
 
     "invalid_accounts": {
         "username": "abc_xyz_123@yopmail.fr",
-        "password": "Smith",
-        "msg_errorInvalidAccounts":"No account found"
-    },
-
-    "error_msg":{
-        "invalidAccount":"",
-        "emptyAccount":"Please enter your email"
+        "password": "Smith"
     }
 }

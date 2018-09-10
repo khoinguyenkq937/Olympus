@@ -1,67 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="3" tests="2" time="22.273">
- <testsuite name="Test Login form" timestamp="2018-09-08T16:43:22" hostname="localhost" time="11.129" errors="0" tests="1" skipped="0" disabled="0" failures="1">
-  <testcase classname="Test Login form" name="User logs in unsuccessfully with invalid accounts" time="11.127">
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="14.428">
+ <testsuite name="Test Login form" timestamp="2018-09-08T15:09:25" hostname="localhost" time="7.536" errors="0" tests="1" skipped="0" disabled="0" failures="1">
+  <testcase classname="Test Login form" name="User logs in unsuccessfully with invalid accounts" time="7.536">
    <failure type="toContain" message="Expected &apos;Login was unsuccessful. Please correct the errors and try again.
 No customer account found&apos; to contain &apos;xxxxxxxxxxx&apos;."><![CDATA[Error: Failed expectation
     at AngularLoginPage.loginInvalidAccount (D:\WebStorm\Olympus\e2eTest\objectPages\LoginPage.js:27:52)
-    at UserContext.<anonymous> (D:\WebStorm\Olympus\e2eTest\testCases\test_authentication_login_invalid_account.js:14:19)
-    at C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
-    at new ManagedPromise (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
-    at ControlFlow.promise (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
-    at schedulerExecute (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
-    at TaskQueue.execute_ (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
-    at TaskQueue.executeNext_ (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
-    at asyncRun (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)]]>
+    at UserContext.<anonymous> (D:\WebStorm\Olympus\e2eTest\testCases\test.authentication.login.invalid.account.js:14:19)
+    at C:\Users\Admin\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+    at ControlFlow.promise (C:\Users\Admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+    at schedulerExecute (C:\Users\Admin\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+    at TaskQueue.executeNext_ (C:\Users\Admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+    at asyncRun (C:\Users\Admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)]]>
    </failure>
   </testcase>
  </testsuite>
- <testsuite name="Test Login form" timestamp="2018-09-08T16:43:33" hostname="localhost" time="11.144" errors="0" tests="1" skipped="0" disabled="0" failures="2">
-  <testcase classname="Test Login form" name="User logs in successfully with valid account" time="11.143">
+ <testsuite name="Test Login form" timestamp="2018-09-08T15:09:32" hostname="localhost" time="6.892" errors="0" tests="1" skipped="0" disabled="0" failures="1">
+  <testcase classname="Test Login form" name="User logs in successfully with valid account" time="6.892">
    <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;D:\WebStorm\Olympus\e2eTest\src\.report\chrome-Test Login form User logs in unsuccessfully with invalid accounts.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'D:\WebStorm\Olympus\e2eTest\src\.report\chrome-Test Login form User logs in unsuccessfully with invalid accounts.png']]>
-   </failure>
-   <failure type="exception" message="Failed: Wait timed out after 10001ms"><![CDATA[TimeoutError: Wait timed out after 10001ms
-    at C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2201:17
-    at ManagedPromise.invokeCallback_ (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
-    at TaskQueue.execute_ (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
-    at TaskQueue.executeNext_ (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
-    at asyncRun (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27)
-    at C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
-    at <anonymous>
-    at process._tickCallback (internal/process/next_tick.js:188:7)
-From: Task: <anonymous wait>
-    at scheduleWait (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2188:20)
-    at ControlFlow.wait (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2517:12)
-    at Driver.wait (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:934:29)
-    at run (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\built\browser.js:59:33)
-    at ProtractorBrowser.to.(anonymous function) [as wait] (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\built\browser.js:67:16)
-    at AngularHomePage.waitForHomePage (D:\WebStorm\Olympus\e2eTest\objectPages\HomePage.js:13:17)
-    at UserContext.<anonymous> (D:\WebStorm\Olympus\e2eTest\testCases\test_authentication_login_valid_account.js:7:18)
-    at C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
-    at new ManagedPromise (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
-    at ControlFlow.promise (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
-From: Task: Run it("User logs in successfully with valid account") in control flow
-    at UserContext.<anonymous> (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
-    at attempt (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
-    at QueueRunner.run (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
-    at QueueRunner.execute (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
-    at Spec.queueRunnerFactory (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:909:35)
-    at Spec.execute (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:526:10)
-    at UserContext.fn (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:5340:37)
-    at attempt (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
-    at QueueRunner.run (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
-    at QueueRunner.execute (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4199:10)
-From asynchronous test: 
-Error
-    at Suite.<anonymous> (D:\WebStorm\Olympus\e2eTest\testCases\test_authentication_login_valid_account.js:5:5)
-    at addSpecsToSuite (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
-    at Env.describe (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
-    at describe (C:\Users\StevenNguyen888\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
-    at Object.<anonymous> (D:\WebStorm\Olympus\e2eTest\testCases\test_authentication_login_valid_account.js:4:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)]]>
    </failure>
   </testcase>
  </testsuite>
