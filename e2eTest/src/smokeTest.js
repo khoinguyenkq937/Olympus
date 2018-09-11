@@ -22,7 +22,7 @@ exports.config = {
     suites: {
      //   login_invalid_account: '../testCases/test_authentication_login_invalid_account.js',
      //   login_valid_account: '../testCases/test_authentication_login_valid_account.js',
-        demoTest: '../testCases/test_shopping_order_a_product_successfully_without_authentication.js'
+        demoTest: '../testCases/TestTemp.js'
     },
 
     onPrepare: function () {
